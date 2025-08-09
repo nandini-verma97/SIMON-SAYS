@@ -4,3 +4,5 @@ I have built this simon says game using javascript just for Practise purpose.Thi
 # REVIEW
 This is a mind blowing game
 
+# RECOMMENDATION
+I recommend you to play this game
